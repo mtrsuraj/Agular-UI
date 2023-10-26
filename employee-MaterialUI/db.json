@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstName": "suraj",
+      "lastName": "patel",
+      "email": "suraj@gmail.com",
+      "dob": "2001-01-01T18:30:00.000Z",
+      "gender": "male",
+      "education": "graduate",
+      "company": "google",
+      "experience": 1,
+      "package": 12,
+      "id": 1
+    },
+    {
+      "firstName": "aishwarya",
+      "lastName": "munka",
+      "email": "aish@gmail.com",
+      "dob": "2023-10-15T18:30:00.000Z",
+      "gender": "female",
+      "education": "graduate",
+      "company": "big company",
+      "experience": 2,
+      "package": 12,
+      "id": 2
+    },
+    {
+      "firstName": "woomen",
+      "lastName": "kushwaha",
+      "email": "woomen@gmall.com",
+      "dob": "2023-10-07T18:30:00.000Z",
+      "gender": "female",
+      "education": "diploma",
+      "company": "gohs",
+      "experience": 3,
+      "package": 1,
+      "id": 3
+    },
+    {
+      "firstName": "rahul",
+      "lastName": "govid",
+      "email": "rahul@gmail.com",
+      "dob": "2023-10-09T18:30:00.000Z",
+      "gender": "male",
+      "education": "intermediate",
+      "company": "amazon",
+      "experience": 4,
+      "package": 123,
+      "id": 4
+    },
+    {
+      "firstName": "rahul",
+      "lastName": "dev",
+      "email": "dev.rahul@gmail.com",
+      "dob": "2023-10-09T18:30:00.000Z",
+      "gender": "male",
+      "education": "graduate",
+      "company": "google",
+      "experience": 2,
+      "package": 12,
+      "id": 5
+    }
+  ]
+}
